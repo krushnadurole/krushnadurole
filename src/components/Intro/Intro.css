@@ -1,0 +1,146 @@
+.i
+{
+    display: flex;
+    height: 100vh;
+}
+.i-left
+{
+    flex: 1;
+    /* display: flex; */
+    align-items: center;
+ 
+    justify-content: center;
+}
+
+.i-right
+{
+    flex: 1;
+    position: relative;
+    
+}
+.i-field
+{
+    font-style: italic;
+    /* font-size: large; */
+    
+}
+.name-wrapper {
+    padding: 50px;
+    height: 50%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+.name
+{
+    margin-left: 20px;
+}
+.work-prof
+{
+    height: 50px;
+    overflow: hidden;
+}
+.work-prof-wrapper
+{
+    height: 100%;
+    animation: move 5s ease-in-out infinite  alternate;
+}
+@keyframes move
+{
+    25%
+    {   
+        transform: translateY(-50px);
+    }
+    50%
+    {
+        transform: translateY(-100px);
+    }
+    75%
+    {
+        transform: translateY(-150px);
+    }
+    100%
+    {
+        transform: translateY(-200px);
+    }
+}
+.i-work-prof-item
+{
+    height: 50px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(98, 192, 55);
+    padding-left: 12px;
+    align-items:center;
+}
+.i-right-pic
+{
+    height: 100%;
+    width: 80%;
+    object-fit: cover;
+    margin-right: 0;
+    position: relative;
+    margin-left: 30%;
+    flex-wrap: wrap;
+}
+.sm-i
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 30vw;
+    left: 10px;
+}
+h3
+{
+    font-family: 'Zen Antique';
+    /* font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+}
+.i-bg
+{
+    -webkit-clip-path: polygon(25% 0%, 100% 1%, 100% 100%, 25% 100%, 0% 50%);
+    clip-path: polygon(25% 0%, 100% 1%, 100% 100%, 25% 100%, 0% 50%);   
+    background-color: chartreuse;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+.i-scroll
+{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    margin-left: 50%;
+}
+h1
+{
+    font-family: 'Times New Roman',Georgia,  Times, serif;
+    font-style: italic;
+    font-size: 50px;
+}
+@media screen and (max-width: 450px)
+{
+    .a-right
+    {
+       flex-direction: column;
+      flex-wrap: wrap;
+      
+    }
+    .i-bg
+    {
+        width: 12cm;
+        height: 12cm;
+        border-right: 10px;
+    }
+    .i-right-pic
+    {
+        /* visibility: hidden; */
+        width: 12cm;
+        height: 12cm;
+        border-right: 10px;
+    }
+}
