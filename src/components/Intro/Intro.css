@@ -67,9 +67,9 @@
 }
 .i-work-prof-item
 {
-    /* margin-top: 5px; */
-    height: 70px;
-    font-size: 20px;
+    margin-top: 10px;
+    height: 80px;
+    font-size: 18px;
     font-style: italic;
     font-weight: bold;
     color:rgb(98, 192, 55);

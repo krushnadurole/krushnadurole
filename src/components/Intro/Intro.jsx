@@ -12,11 +12,11 @@ const Intro = () => {
             <h1 className="i-name">Krushna A. Durole</h1>
             <div className="work-prof">
               <div className="work-prof-wrapper">
-                <div className="i-work-prof-item">C++ programmer</div> <br />
-                <div className="i-work-prof-item">Elex & Telecomm. Student</div> <br />
-                <div className="i-work-prof-item">Python,java basic programmer</div> <br />
+                <div className="i-work-prof-item">C++ programmer</div> 
+                <div className="i-work-prof-item">Elex & Telecomm. Student</div> 
+                <div className="i-work-prof-item">Python,java basic programmer</div> 
                 <div className="i-work-prof-item">Front End web Developer</div> <br />
-                <div className="i-work-prof-item">SWD-scholarship-co-ordinator</div> <br />
+                <div className="i-work-prof-item">SWD-scholarship-co-ordinator</div> 
               </div>
             </div>
             {/* <fieldset> */}
