@@ -143,4 +143,8 @@ h1
         height: 12cm;
         border-right: 10px;
     }
+    .i-scroll
+    {
+        visibility: hidden;
+    }
 }

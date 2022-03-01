@@ -13,6 +13,7 @@ const ProductList = () => {
           {/* <cite>Idowu Koyenikan, Wealth for All: Living a Life of Success at the Edge of Your Ability</cite> */}
         </p>
       </div>
+      <hr className="h" />
       <div className="pl-list">
         {products.map((item) => (
           <Product key={item.id} img={item.img} link={item.link} descr={item.descr} />

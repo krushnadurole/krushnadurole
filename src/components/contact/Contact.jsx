@@ -3,8 +3,6 @@ import Phone from "../../images/phone.png"
 import Email from "../../images/email.png"
 import Address from "../../images/address.png"
 import emailjs from "emailjs-com";
-// import linkedin from "linkedin.jpeg"
-// import insta from "insta.jpeg"
 import './Contact.css'
 import { useState, useContext, useRef } from 'react'
 const Contact = () => {
@@ -54,7 +52,7 @@ const Contact = () => {
                                 Balajinagar, Ramnagar, Jalna
                             </div>
                             <div className="c-info-item">
-                                    <img   src="./icon-images/linkedin.jpeg" alt="" className='c-icon' id = "linkdin"/>
+                                    <img   src={process.env.PUBLIC_URL + "/linkedin.jpeg"} alt="" className='c-icon' id = "linkdin"/>
                                 <a href=" https://www.linkedin.com/in/krushna-durole-0357931b9/">
                                     krushna durole 
                                 </a>
@@ -62,7 +60,7 @@ const Contact = () => {
                             </div>
                             <div className="c-info-item">
                                 <a href="">
-                                     <img    src="./icon-images/insta.jpeg" alt="" className='c-icon'id = "insta" />
+                                     <img    src={process.env.PUBLIC_URL + "/insta.jpeg"} alt="" className='c-icon'id = "insta" />
                                      instagram id .
                                 </a> 
                             </div>
