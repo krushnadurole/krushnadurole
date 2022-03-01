@@ -22,13 +22,13 @@
     id:4,
     img:"/codeKaze_c.png",
     link:"",
-    descr :"This competition is organized by the coding ninja. My air in the contest : 1311"
+    descr :"competition was organized by the coding ninja. My air in the contest : 1311"
   },
   {
     id:5,
     img:"/credit_c.png",
     link:"",
-    descr :"I had feliciated by the Credit Suisse scholarship for Enginnering students,on the basis of academic records in the first Year .  "
+    descr :"I had feliciated by the Credit Suisse scholarship ,on the basis of academic records in the first Year"
   },
   {
     id:6,
