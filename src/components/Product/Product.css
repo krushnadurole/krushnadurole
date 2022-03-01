@@ -27,7 +27,7 @@
   .p-img {
     width: 100%;
     transition: all 10s ease;
-    height: 80%;
+    height: 70%;
     /* display :contents; */
   }
   
@@ -41,11 +41,11 @@
   } */
   .p-descr
   {
-    height: 2px;
+    height: 4px;
     width: 100%;
     /* transition: all 10s ease; */
-    font-weight: 400;
-    font-size: 10px;
+    font-weight: 600;
+    font-size: 8px;
   }
   @media screen and (max-width: 480px) {
     .p {
