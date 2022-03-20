@@ -3,11 +3,11 @@
 -
 
  
-  # I am SY studnet pursuing Btech,2024 at VIT PUNE. 
-  # Front end Web developer . 
-  # programming langaugaes that we used : c/c++ for coding , Java for OOPS, Python , R for Data science , 
-  # web developement : HTML,CSS,JAVASCRIPT , REACT JS
-  # Worked with Mysql Database . 
+  #### I am SY studnet pursuing Btech,2024 at VIT PUNE. 
+  #### Front end Web developer . 
+  #### programming langaugaes that we used : c/c++ for coding , Java for OOPS, Python , R for Data science , 
+  #### web developement : HTML,CSS,JAVASCRIPT , REACT JS
+  #### Worked with Mysql Database . 
   
   ---
   - 🔭 I’m currently working on MERN Project
@@ -16,12 +16,7 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="JAVA" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="JAVA" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="50" height="50"/>
 
 
 ---
