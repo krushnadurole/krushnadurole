@@ -1,11 +1,12 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am krushna Durole!
--
+
 
  
   #### I am SY studnet pursuing Btech,2024 at VIT PUNE. 
   #### Front end Web developer . 
-  #### programming langaugaes that we used : c/c++ for coding , Java for OOPS, Python , R for Data science , 
+  #### programming langaugaes that I used till date : c/c++ for coding , Java for OOPS, Python , R for Data science ,
+  #### cpp is my favourite programming language , always preferred while coding.
   #### web developement : HTML,CSS,JAVASCRIPT , REACT JS
   #### Worked with Mysql Database . 
   
