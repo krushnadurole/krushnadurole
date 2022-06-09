@@ -3,7 +3,7 @@
 
 
  
-  #### I am SY studnet pursuing Btech,2024 at VIT PUNE. 
+  #### I am SY student pursuing Btech,2024 at VIT PUNE. 
   #### Front end Web developer . 
   #### programming langaugaes that I used till date : c/c++ for coding , Java for OOPS, Python , R for Data science ,
   #### cpp is my favourite programming language , always preferred while coding.
