@@ -10,14 +10,14 @@
   #### programming langaugaes that I used till date : c/c++ for coding , Java for OOPS, Python , R for Data science ,
   #### cpp is my favourite programming language , always preferred while coding.
   #### web developement : HTML,CSS,JAVASCRIPT , REACT JS working on MERN
-  #### Worked with Mysql Database. 
+  #### Worked on Mysql Database. 
   <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
   
   ---
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnadurole&label=Profile%20views&color=green&style=flat" alt="krushnadurole" /> </p>
 
-- 💼 I’m pursuing <strong>BTech in Electronics and Telecommunication </strong> and <strong>currently a Second Year undergrad at VIT Pune</strong>.
-- 🔭 I’m currently working on <strong>MERN Stack and Advanced Data Structures </strong>.
+- 💼 I’m pursuing <strong>BTech in Electronics and Telecommunication </strong> and <strong>currently a Third Year undergrad at VIT Pune</strong>.
+- 🔭 I’m currently working on <strong>MERN Stack and Data structures and Algorithms </strong>.
 
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
