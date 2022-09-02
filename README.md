@@ -5,12 +5,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
  
-  #### I am SY student pursuing Btech,2024 at VIT PUNE. 
+  #### I am TY student pursuing Btech,2024 at VIT PUNE. 
   #### Front end Web developer . 
   #### programming langaugaes that I used till date : c/c++ for coding , Java for OOPS, Python , R for Data science ,
   #### cpp is my favourite programming language , always preferred while coding.
-  #### web developement : HTML,CSS,JAVASCRIPT , REACT JS
-  #### Worked with Mysql Database . 
+  #### web developement : HTML,CSS,JAVASCRIPT , REACT JS working on MERN
+  #### Worked with Mysql Database. 
   <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
   
   ---
