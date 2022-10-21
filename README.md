@@ -1,5 +1,5 @@
 
-### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am krushna Durole!
+### Hi , <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am krushna Durole!
 
 <div id="header" align="center">
   <img src="https://tse1.mm.bing.net/th?id=OIP.fhjjF-H5TQZ8uvd6udEYwgHaJ4&pid=Api&P=0" width="100"/>
@@ -23,14 +23,25 @@
 <a href="https://www.hackerrank.com/krushnadurole201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krushnadurole201" height="30" width="40" /></a>
 
 </p>
-🧰 Toolbox
+
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/krushna-durole-0357931b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krushna-durole-0357931b9" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_am_krushna08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_krushna08" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="JAVA" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJs" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="NodeJs" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="JAVA" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express
+  original.svg" alt="Express" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/
+  python-plain.svg" alt="PYTHON" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+</p>
 
 ---
 
-
+<p>
 <h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true&theme=dark&locale=en" alt="krushnadurole" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnadurole&show_icons=true&theme=dark&layout=compact" alt="krushnadurole" /></p>
@@ -52,10 +63,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN & DsAlgo
 - 👯 I’m looking to collaborate on web projects.
 - 🤔 I’m looking for help with redux concepts
-- 💬 Ask me about myself 
+- 💬 Ask me about : Web Development
 - 📫 How to reach me: instagram handle : @i_am_krushna_08
 - 😄 Pronouns: krishna
-- ⚡ Fun fact: i will not give you answer of last fourth question.
+- ⚡ Fun fact: .
 -->
 
 
