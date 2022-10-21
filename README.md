@@ -4,12 +4,12 @@
 <div id="header" align="center">
   <img src="https://tse1.mm.bing.net/th?id=OIP.fhjjF-H5TQZ8uvd6udEYwgHaJ4&pid=Api&P=0" width="100"/>
 </div>
- <h5 align = "center">am TY student pursuing Btech,2024 at VIT PUNE. </h5>
-  #### Full Stack Web developer . 
-  #### Programming langaugaes that I am familiar with are : c/c++ for coding , Java for OOPS, Python , R for Data science.
-  #### cpp is my favourite programming language ,I always prefer while coding.
-  #### web developement : HTML,CSS,JAVASCRIPT , REACT JS, working on MERN
-  #### Worked on Mysql Database.
+   <h5 align = "center">am TY student pursuing Btech,2024 at VIT PUNE. </h5>
+   <h5>Full Stack Web developer . </h5>
+   <h5> Programming langaugaes that I am familiar with are : c/c++ for coding , Java for OOPS, Python , R for Data science.</h5>
+   <h5>cpp is my favourite programming language ,I always prefer while coding.</h5>
+   <h5>web developement : HTML,CSS,JAVASCRIPT , REACT JS, working on MERN</h5>
+   <h5> Worked on Mysql Database.</h5>
   <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
   
   ---
@@ -48,14 +48,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Btech Program
+- 🌱 I’m currently learning MERN & DsAlgo
+- 👯 I’m looking to collaborate on web projects.
+- 🤔 I’m looking for help with redux concepts
+- 💬 Ask me about myself 
+- 📫 How to reach me: instagram handle : @i_am_krushna_08
+- 😄 Pronouns: krishna
+- ⚡ Fun fact: i will not give you answer of last fourth question.
 -->
 
 
