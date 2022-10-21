@@ -11,7 +11,7 @@
   #### cpp is my favourite programming language ,I always prefer while coding.
   #### web developement : HTML,CSS,JAVASCRIPT , REACT JS, working on MERN
   #### Worked on Mysql Database.
-  <h5/>
+  </h5>
   <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
   
   ---
