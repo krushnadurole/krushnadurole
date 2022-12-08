@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: krishna
 - ⚡ Fun fact: .
 -->
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true alt=rahuldkjain /> </p>
 
 
 
