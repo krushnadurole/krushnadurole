@@ -40,15 +40,15 @@
 ---
 
 <p>
-<h3 align="left">Github Stats:</h3>
+<h3 align="center">Github Stats:</h3>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true alt=rahuldkjain /> </p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnadurole&show_icons=true&layout=compact" alt="krushnadurole" /></p>
 <p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=krushnadurole" alt="krushnadurole" /></p>
 
 
 
-<h3 align="left">Git Profile Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app?username=krushnadurole&show_icons=true&theme=dark" alt="krushnadurole" /></a></p>
+<h3 align="center">Git Profile Trophies:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app?username=krushnadurole&show_icons=true&theme=dark" alt="krushnadurole" /></a></p>
 
 <!--
 **krushnadurole/krushnadurole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
