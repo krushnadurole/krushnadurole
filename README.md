@@ -41,9 +41,9 @@
 
 <p>
 <h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true&theme=dark&locale=en" alt="krushnadurole" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnadurole&show_icons=true&theme=dark&layout=compact" alt="krushnadurole" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushnadurole&theme=dark" alt="krushnadurole" /></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true alt=rahuldkjain /> </p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnadurole&show_icons=true&layout=compact" alt="krushnadurole" /></p>
+<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=krushnadurole" alt="krushnadurole" /></p>
 
 
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: krishna
 - ⚡ Fun fact: .
 -->
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true alt=rahuldkjain /> </p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushnadurole&show_icons=true&theme=dark&locale=en" alt="krushnadurole" /></p> -->
 
 
 
