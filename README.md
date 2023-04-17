@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/krushna-durole-0357931b9/" target="blank">Linkedin</a>
-<a href="https://www.instagram.com/i_am_krushna08/" target="blank">Instagram</a>
+<a href="https://www.instagram.com/krushna_durole/" target="blank">Instagram</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
