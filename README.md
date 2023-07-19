@@ -18,7 +18,7 @@
 
 - 💼 I’m pursuing <strong>BTech in Electronics and Telecommunication </strong> and <strong>currently a Final Year undergrad at VIT Pune</strong>.
 - 🔭 I’m Currently working on <strong>MERN Stack and Data structures and Algorithms along with core cs fundamentals.</strong>.
-- I'm Currently working as Embedded Firmware Enginnering Intern at Semtech
+- <strong>I'm Currently working as Embedded Firmware Enginnering Intern at Semtech</strong>
 
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
