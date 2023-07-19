@@ -4,7 +4,8 @@
 <div id="header" align="center">
   <img src="https://tse1.mm.bing.net/th?id=OIP.fhjjF-H5TQZ8uvd6udEYwgHaJ4&pid=Api&P=0" width="100"/>
 </div>
-   <h5 align = "center">I am TY student pursuing Btech,2024 at VIT PUNE. </h5>
+   <h5 align = "center">I am Final Year student pursuing Btech,2024 at VIT PUNE. </h5>
+   <h5 align = "center">currently working at Semtech as a Firmware Engineer Intern </h5>
    <h5 align = "center">Full Stack Web developer . </h5>
    <h5 align = "center"> Programming langaugaes that I am familiar with are : c/c++ for coding , Java for OOPS, Python , R for Data science.</h5>
    <h5 align = "center">cpp is my favourite programming language ,I always prefer while coding.</h5>
@@ -15,7 +16,7 @@
   ---
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnadurole&label=Profile%20views&color=green&style=flat" alt="krushnadurole" /> </p>
 
-- 💼 I’m pursuing <strong>BTech in Electronics and Telecommunication </strong> and <strong>currently a Third Year undergrad at VIT Pune</strong>.
+- 💼 I’m pursuing <strong>BTech in Electronics and Telecommunication </strong> and <strong>currently a Final Year undergrad at VIT Pune</strong>.
 - 🔭 I’m currently working on <strong>MERN Stack and Data structures and Algorithms along with core cs fundamentals.</strong>.
 
 <h3 align="left">Coding Profile:</h3>
