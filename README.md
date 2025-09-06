@@ -5,7 +5,7 @@
   <img src="https://tse1.mm.bing.net/th?id=OIP.fhjjF-H5TQZ8uvd6udEYwgHaJ4&pid=Api&P=0" width="100"/>
 </div>
    <h5 align = "center">Graduated: Btech,2024 at VIT PUNE. </h5>
-   <h5 align = "center"> Embedded Firmware Engineer Intern at Semtech </h5>
+   <h5 align = "center"> Firmware Engineer at Semtech </h5>
    <h5 align = "center">Full Stack Web developer . </h5>
    <h5 align = "center"> Programming langaugaes that I am familiar with are : c/c++ for coding , Java for OOPS, Python , R for Data science.</h5>
    <h5 align = "center">cpp is my favourite programming language ,I always prefer while coding.</h5>
